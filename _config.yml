@@ -15,6 +15,7 @@ url                      : "http://venethimakiir.github.io"
 baseurl                  : "/RustManager"
 repository               : "VenethImakiir/RustManager"
 teaser                   : "/assets/images/teaser_default.jpg"
+theme                    : minimal-mistakes-jekyll
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
