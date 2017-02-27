@@ -15,7 +15,7 @@ This is my first encounter with new technologies for a long time, so I'm a bit n
 
 <!--more-->
 
-Srsly - for last few years I was totally stuck in some horrible projects, with horrible clients, etc. I started burning out and didn't even have energy to try and change my situation. Luckily for me the last project went horribly wrong and I ended becoming a scapegoat and get rid off to please the client. The problem has solved itself. Lots of my energy drained and my self-confidence shaken in the process, though.
+Srsly - for last few years I was totally stuck in some horrible projects, with horrible clients, etc. I started burning out and didn't even have energy to try and change my situation. Luckily for me the last project went horribly wrong and I ended up becoming a scapegoat and got rid off to please the client. The problem has solved itself. Lots of my energy drained and my self-confidence shaken in the process, though.
 
 Now I'm free and with a lot of help from my wife ([thanks, Honey!](https://ka1130.github.io/)), who also got fed up with her old profession (graphic designer) and became a front-end developer, I'm starting this small project. Rust Server Manager.
 
