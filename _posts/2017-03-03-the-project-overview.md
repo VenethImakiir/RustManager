@@ -36,4 +36,4 @@ Plan:
 * run the server and check out the commands, API and mechanics
 * start writing first scripts
 
-The last point of the plan is a milestone. When I reach it I'll revise the plan and checkout the requirements (b/c rust updates could make my reqs obsolete). So nextpost will be about setting up thepythin install and rust server on linux (in my case Debian) machine!
+The last point of the plan is a milestone. When I reach it I'll revise the plan and checkout the requirements (b/c rust updates could make my reqs obsolete). So next post will be about setting up the python install and rust server on linux (in my case Debian) machine!
