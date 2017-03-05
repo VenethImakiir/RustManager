@@ -8,7 +8,7 @@ tags:
   - dev
 ---
 
-Ok, time for more details about the project, the language chosen by me, project requirements and so on. (read more...)
+Ok, time for more details about the project, the language chosen by me, project requirements and so on.
 
 <!--more-->
 
